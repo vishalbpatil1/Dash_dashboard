@@ -4,9 +4,9 @@
 
 
 #### dashboard view
-![image1]()
-![image2]()
-![image3]()
-![image4]()
-![image5]()
-![image6]()
+![image1](https://github.com/vishalbpatil1/Dash_dashboard/blob/main/block1.png)
+![image2](https://github.com/vishalbpatil1/Dash_dashboard/blob/main/block2.png)
+![image3](https://github.com/vishalbpatil1/Dash_dashboard/blob/main/block3.png)
+![image4](https://github.com/vishalbpatil1/Dash_dashboard/blob/main/block4.png)
+![image5](https://github.com/vishalbpatil1/Dash_dashboard/blob/main/block5.png)
+![image6](https://github.com/vishalbpatil1/Dash_dashboard/blob/main/block6.png)
